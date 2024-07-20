@@ -9,4 +9,4 @@ DeployedLink -> https://ellty-assignment-seven.vercel.app/
 
 ![Image Screenshot 2](./public/Screenshot_two.png)
 
-![Image Screenshot 2](./public/three.png)
+![Image Screenshot 2](./public/Screenshot_three.png)
