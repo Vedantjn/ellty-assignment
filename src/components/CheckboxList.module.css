@@ -1,0 +1,27 @@
+/* CheckboxList.module.css */
+.checkboxList {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.checkboxItem {
+  display: flex;
+  align-items: center;
+}
+
+.checkbox {
+  width: 25px;
+  height: 25px;
+  background: #FFFFFF;
+  border-radius: 6px;
+  margin-right: 10px;
+  appearance: none;
+  border: 1px solid #ccc;
+  cursor: pointer;
+}
+
+.checkbox:checked {
+  background-color: #FFCE22;
+  border-color: #FFCE22;
+}
